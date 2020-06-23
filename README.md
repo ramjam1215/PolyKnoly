@@ -11,6 +11,9 @@
 -Run local Server(from project directory)
 	py manage.py runserver
 
+06-23-2020
+-had some security issues with old repo, needed to redue project and naming
+
 06-19-2020
 -Added some environental variable stuff to project for development and security before I added to git
 -familiarization w/ git and django framework
