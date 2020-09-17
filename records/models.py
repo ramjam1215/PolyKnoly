@@ -7,7 +7,7 @@ from polyknoly.resources.staticStuff import POL_PARTY_CHOICES, ANSWERS
 #Information/Resources
 
 # https://docs.djangoproject.com/en/3.0/topics/db/
-# https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+# https://docs.djangoproject.com/en/3.0/intro/tutorial04/
 # Models and DB 
 
 # 'blank' => determines if field is required in a form
